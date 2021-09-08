@@ -1,8 +1,8 @@
 ### Halo, I am kartikey singh 👋
 
 - 🔭 I’m currently working on my Projects.
-- 🌱 I’m currently learning AR/VR 
-- 👯 I’m looking to collaborate on My Android project.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on My flutter project.
 - 🤔 I’m looking for help with Arfoundation.
 - 💬 Ask me about Android or any tech related stuff-
 - 😄 Pronouns: He/His

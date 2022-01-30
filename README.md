@@ -33,7 +33,7 @@
 </p>
 
 **Connect with me.**                                                                                                                
-<p align = "center">               
+<h3 align = "center">               
                    
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kartikey4474)                  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-singh-454076202/)
@@ -43,7 +43,7 @@
  
  &nbsp;
 
- </p>                                                                                                                
+ </h3>                                                                                                                
                                                                                                                 
                                                                                                               
 

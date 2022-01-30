@@ -8,7 +8,7 @@
  </abc> 
 </h2>
 <h3 align = "left">
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: <br>
 - 🏦 I'm a flutter developer, AR VR enthusiast and Competitive programmer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary Post technical Stuff on my [Instagram](https://www.instagram.com/code.addicted/)

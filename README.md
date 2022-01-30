@@ -8,14 +8,14 @@
  </abc> 
 </h2>
 <h3 align = "left">
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: <br>
-- 🏦 I'm a flutter developer, AR VR enthusiast and Competitive programmer.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary Post technical Stuff on my [Instagram](https://www.instagram.com/code.addicted/)
-- 💻 I use daily **.java**, **.cpp**, **.dart**
-- 📖 I am currently Improving my **Problem Solving.**
-- 💬 Talk to me about DSA, flutter & startups
-- ⚡ Code Game Repeat ⚡
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: <br>
+- 🏦 I'm a flutter developer, AR VR enthusiast and Competitive programmer. 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+- 📝 I regulary Post technical Stuff on my [instagram](https://www.instagram.com/code.addicted/) <br>
+- 💻 I use daily **.java**, **.cpp**, **.dart** <br>
+- 📖 I am currently Improving my **Problem Solving.** <br>
+- 💬 Talk to me about DSA, flutter & startups <br>
+- ⚡ Code Game Repeat ⚡<br>
  </h3>
 
 <p align="center">

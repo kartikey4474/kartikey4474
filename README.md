@@ -17,7 +17,7 @@
 - ⚡ Code Game Repeat ⚡<br>
 </h4>
 
-My skills and tools-
+**My skills and tools-**
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
@@ -35,7 +35,7 @@ My skills and tools-
 **Connect with me.**                                                                                                                
 <p align = "center">               
                    
-                   
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kartikey4474)                  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-singh-454076202/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/code.addicted/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kartikeysingh4474@gmail.com)

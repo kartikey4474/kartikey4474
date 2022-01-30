@@ -33,9 +33,7 @@ My skills and tools-
 </p>
 
 **Connect with me.**                                                                                                                
-<p align = "center"> 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kartikey4474)
-                   
+<p align = "center">               
                    
                    
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-singh-454076202/)

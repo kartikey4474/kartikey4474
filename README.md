@@ -1,13 +1,13 @@
 <h2 align="center">
  <abc>
   <br>Hi there! I'm Kartikey singh, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>  I'm a flutter developer, AR VR enthusiast and Competitive programmer. :computer:<br>  
+  <br> a flutter developer, AR VR enthusiast and Competitive programmer. :computer:<br>  
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc> 
 </h2>
 <h4 align = "left>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me: <br>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me: <br>
 - 🏦 I'm a flutter developer, AR VR enthusiast and Competitive programmer.<br>
 - 📝 I regulary Post technical Stuff on my Instagram. <br> 
 - 💻 I use daily .java, .cpp, .dart <br>
@@ -30,17 +30,7 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
-                                                                                                                
-**I Mostly Code in flutter 💻** 
-
-```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   32.5% 
-Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-C++                      1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
-
-```                                                                                                                
+                                                                                                              
 
 
 <p align = "center">

@@ -30,6 +30,17 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
+                                                                                                                
+**I Mostly Code in flutter 💻** 
+
+```text
+Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   32.5% 
+Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
+Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+C++                      1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+
+```                                                                                                                
 
 
 <p align = "center">

@@ -57,7 +57,7 @@
 
 
 
-![kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikey4474&show_icons=true&theme=react, width = 400)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kartikey4474&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514, width = 400)](https://git.io/streak-stats)
+![kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikey4474&show_icons=true&theme=react)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kartikey4474&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>

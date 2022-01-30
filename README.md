@@ -1,18 +1,20 @@
-<h2 align="center">
+<h align="center">
  <abc>
   <br>Hi there! I'm Kartikey singh, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br>  I'm a flutter developer, AR VR enthusiast and Competitive programmer. :computer:<br>  
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc> 
-</h2>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> __About Me:__ <br>
+</h1>
+<h2 align = "left>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me: <br>
 - 🏦 I'm a flutter developer, AR VR enthusiast and Competitive programmer.<br>
 - 📝 I regulary Post technical Stuff on my Instagram. <br> 
 - 💻 I use daily .java, .cpp, .dart <br>
 - 📖 I am currently Improving my Problem Solving. <br>
 - 💬 Talk to me about DSA, flutter & startups <br>
 - ⚡ Code Game Repeat ⚡<br>
+</h2>
 
 
 <p align="center">

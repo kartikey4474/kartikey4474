@@ -28,7 +28,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br />
 </p>
-### 📢 Find me elsewhere
+📢 **Find me elsewhere-**
 <p align="left">
   <a href="https://www.codechef.com/users/sanskari_4">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -36,11 +36,8 @@
   
   <a href="https://leetcode.com/kartikey4/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;  
+  </a>&nbsp;&nbsp;&nbsp;   
   
-  <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/npanuhin/Artwork/master/SVG/Codeforces/Codeforces.colored.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
 </p>                                                                                       
 
 **Connect with me-**                                                                                                                

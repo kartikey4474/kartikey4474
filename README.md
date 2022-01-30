@@ -28,7 +28,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br />
 </p>
-📢 **Find me elsewhere-**
+📢 Find me elsewhere-
 <p align="center">
   <a href="https://www.codechef.com/users/sanskari_4">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -57,7 +57,7 @@
 
 
 
-![kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikey4474&show_icons=true&theme=radical)
+![kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikey4474&show_icons=true&theme=react)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kartikey4474&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>

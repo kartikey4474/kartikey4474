@@ -39,7 +39,7 @@
   </a>&nbsp;&nbsp;&nbsp;  
   
   <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/npanuhin/Artwork/master/SVG/Codeforces/Codeforces.colored.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>                                                                                       
 

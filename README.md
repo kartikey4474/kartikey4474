@@ -67,6 +67,6 @@ https://kartikeysingh.live/       <br>
 
 ![kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikey4474&show_icons=true&theme=react)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kartikey4474&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats)
- <a href="https://github.com/kartikey4474/github-readme-activity-graph"><img alt="kartikey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kartikey4474&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>                    
+ <a href="https://github.com/kartikey4474/github-readme-activity-graph"><img alt="kartikey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kartikey4474&theme=react&hide_border=true" /></a>                    
 </h3>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
